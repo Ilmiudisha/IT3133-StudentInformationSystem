@@ -1,3 +1,7 @@
-export default function StudentTable(){
-    return();
+export default function StudentTable(props){
+    return(
+        <div>
+
+        </div>
+    );
 }
